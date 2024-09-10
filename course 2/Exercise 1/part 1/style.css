@@ -3,3 +3,10 @@
     margin: 0;
     box-sizing: border-box;
 }
+#square{
+    width: 200px;
+    height: 200px;
+    background: black;
+    margin: auto;
+    margin-top: 40px;
+}
